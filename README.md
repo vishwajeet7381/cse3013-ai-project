@@ -1,0 +1,1 @@
+This is a group project for our college course CSE3013-Artificial Intelligence, in which we compared 3 Classfication Machine Learning Algorithms namely, kNN, SVM, and Random Forest.
